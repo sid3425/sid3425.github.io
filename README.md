@@ -17,7 +17,7 @@ Python, C/C++, HTML, Server Management and System Administration, Cybersecurity 
 * Participant at Hacktoberfest 2022 hosted by Digital Ocean
 
 ### Projects
-* Created an easy to use yet powerful system configuration for multiple use cases using the Nix language for the [NixOS](nixos.org) Linux distribution. [Link to Repository](github.com/sid3425/nixconfig)
+* Created an easy to use yet powerful system configuration for multiple use cases using the Nix language for the [NixOS](https://www.nixos.org) Linux distribution. [Link to Repository](github.com/sid3425/nixconfig)
 * Created my portfolio website using the Jekyll framework and hosted on GitHub pages. [Link to Repository](github.com/sid3425/sid3425.github.io)
 
 ### Education
