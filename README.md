@@ -11,8 +11,7 @@ Python, C/C++, HTML, Server Management and System Administration, Cybersecurity 
 
 ### Experience
 * Member of National Services Scheme (NSS) in the year 2021- 22.
-* Content Team Member at Github Community SRM since
-* November 2023
+* Content Team Member at Github Community SRM since November 2023
 * Participant at Hacktoberfest 2022 hosted by Digital Ocean
 
 ### Projects
