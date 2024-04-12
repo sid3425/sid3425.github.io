@@ -1,3 +1,5 @@
+# Welcome to my portfolio!
+
 ### Skills
 Python, C/C++, HTML, Server Management and System Administration, Cybersecurity Analysis, Containerization and Virtualization technologies
 
@@ -15,8 +17,8 @@ Python, C/C++, HTML, Server Management and System Administration, Cybersecurity 
 * Participant at Hacktoberfest 2022 hosted by Digital Ocean
 
 ### Projects
-* Created an easy to use yet powerful system configuration using the Nix language for the NixOS Linux distribution
-* Created my portfolio website using the Jekyll framework and hosted on GitHub pages
+* Created an easy to use yet powerful system configuration for multiple use cases using the Nix language for the [NixOS](nixos.org) Linux distribution. [Link to Repository](github.com/sid3425/nixconfig)
+* Created my portfolio website using the Jekyll framework and hosted on GitHub pages. [Link to Repository](github.com/sid3425/sid3425.github.io)
 
 ### Education
 __B.Tech in Computer Science and Engineering__ at SRMIST, Kattankhulathur (2021-2025)
