@@ -21,5 +21,5 @@ Python, C/C++, HTML, Server Management and System Administration, Cybersecurity 
 * Created my portfolio website using the Jekyll framework and hosted on GitHub pages. [Link to Repository](github.com/sid3425/sid3425.github.io)
 
 ### Education
-__B.Tech in Computer Science and Engineering__ at SRMIST, Kattankhulathur (2021-2025)
-__K-12 schooling with CGPA of 8.0__ at Apeejay School, Kharghar (2007-2021)
+* __B.Tech in Computer Science and Engineering__ at SRMIST, Kattankhulathur (2021-2025)
+* __K-12 schooling with CGPA of 8.0__ at Apeejay School, Kharghar (2007-2021)
